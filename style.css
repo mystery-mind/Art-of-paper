@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Dancing Script;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+background-color: lightcoral;
+}
+
+#origami2{
+    background-color: lightcoral;
+}
+
+.line {
+    height: 6px;
+    background-color: rgb(90, 0, 117);
+    width: 70px;
+    margin: 8px auto;
+}
+h3{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+h2{
+    font-family: 'Great Vibes', cursive;
+}
